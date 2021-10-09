@@ -91,7 +91,6 @@
 				113C50507F9595F795EE49AA /* Pods-TestWatchApp-TestWatchAppTests.debug.xcconfig */,
 				BBD0D635054AF2DBD4BA5D47 /* Pods-TestWatchApp-TestWatchAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4CFLUFGLR6;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = TestWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4CFLUFGLR6;
 				INFOPLIST_FILE = TestWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
